@@ -6,7 +6,7 @@
 using namespace std;
 
 // Morse code map for letters only 
-unordered_map<char, string> morseCode = {
+unordered_map<char,  string> morseCode = {
     {'A', ".-"},   {'B', "-..."}, {'C', "-.-."}, {'D', "-.."},  {'E', "."},
     {'F', "..-."}, {'G', "--."},  {'H', "...."}, {'I', ".."},   {'J', ".---"},
     {'K', "-.-"},  {'L', ".-.."}, {'M', "--"},   {'N', "-."},   {'O', "---"},
