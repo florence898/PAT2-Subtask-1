@@ -3,7 +3,7 @@
 #include <string>
 #include <cctype>
 
-using namespace std;
+using namespace std; 
 
 // Morse code map for letters only 
 unordered_map<char,  string> morseCode = {
