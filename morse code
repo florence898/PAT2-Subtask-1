@@ -35,7 +35,7 @@ string translateToMorse(const string& message) {
                 fullMorse += (symbol == '.' ? DOT : DASH);
             }
             fullMorse += "   "; // 
-        }
+        } 
     }
     return fullMorse;
 }
